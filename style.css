@@ -1,0 +1,138 @@
+.image1{
+    display: flex;
+    height: 150px;
+    width: 150px;
+   position: absolute;
+   left: 140px;
+  
+}
+div a img{
+    margin: 20px;
+    height: 250px;
+    width: 370px;
+    
+}
+.image-1{
+    margin-left: 200px;
+    margin-top: 100px;
+
+}
+#imagex{
+    margin-top: 2px;
+    border: solid;
+    border-bottom-width: 450px;
+    border-color: rgb(241, 170, 170);
+  
+
+   
+    
+}
+.text1{
+    position: absolute;
+    left: 170px;
+    top: 390px;
+    font-size: 36px;
+    font-family:  Courier, monospace;
+    
+}
+.text2{
+    position: absolute;
+    left: 170px;
+    top: 430px;
+    font-size: 36px;
+    font-family:  Courier, monospace;
+}
+.text3{
+    position: absolute;
+    left: 590px;
+    top: 370px;
+    font-size: 36px;
+    font-family:  Courier, monospace;
+}
+.text4{
+    position: absolute;
+    left: 1000px;
+    top: 390px;
+    font-size: 36px;
+    font-family:  Courier, monospace;
+}
+#text-2{
+    
+ 
+}
+.texta{
+    height: 80px;
+    width: 250px;
+    position: absolute;
+    left: 170px;
+    top: 460px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.textb{
+    height: 80px;
+    width: 250px;
+    position: absolute;
+    left: 590px;
+    top: 400px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.textc{
+    height: 80px;
+    width: 250px;
+    position: absolute;
+    left: 1000px;
+    top: 420px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box1{
+    position: absolute;
+    top: 770px;
+    left: 287px;
+    background-color: aqua;
+    border: solid;
+    border-color: rgb(191, 130, 57);
+    border-radius: 60px;
+    padding: 15px;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+.box2{
+    position: absolute;
+    text-decoration: none;
+    top: 715px;
+    left: 710px;
+    background-color: aqua;
+    border: solid;
+    border-color: rgb(191, 130, 57);
+    border-radius: 60px;
+    padding: 15px;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+}
+.box3{
+    text-decoration: none;
+    position: absolute;
+    top: 770px;
+    left: 1140px;
+    background-color: aqua;
+    border: solid;
+    border-color: rgb(191, 130, 57);
+    border-radius: 60px;
+    padding: 15px;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+}
+img{
+    border: solid;
+    border-bottom-width: 450px;
+    border-color: rgb(241, 170, 170);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+.space{
+background-color: white;
+height: 1000px;
+}
